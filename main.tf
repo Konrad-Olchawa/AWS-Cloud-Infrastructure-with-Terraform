@@ -219,9 +219,3 @@ resource "aws_instance" "private-web-server" {
 
 
 
-# resource "<provider>_<resource_type>" "name"{
-#     config options....
-#       key = "values"
-#       key2 = "values2"
-#     }
-# }
