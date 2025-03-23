@@ -1,0 +1,1 @@
+<!-- This project demonstrates how to build and manage AWS cloud infrastructure using Terraform. It includes best practices for infrastructure-as-code, secret management, and continuous integration/deployment. The repository contains modular, reusable Terraform configurations to provision AWS resources securely and efficiently. -->
